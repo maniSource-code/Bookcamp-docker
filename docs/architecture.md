@@ -26,7 +26,7 @@ MongoDB uses Docker Volume: mongodb-data
 
 # Architecture Diagram
 
-![Application Architecute](images/architecture2.jpg)
+![APPLICATION ARCHITECTURE](screenshots/architecture1.png) 
 
 # Architecture flow
 
@@ -50,7 +50,7 @@ Mongo Express Container
 (Database UI)
 ```
 
-![Architecute flow](images/architecture1.jpg)
+![Architecute flow](screenshots/architecture2.png)
 
 # Architecture service|port table
 

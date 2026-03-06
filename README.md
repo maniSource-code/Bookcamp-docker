@@ -75,7 +75,8 @@ see this for more commands [setup commands](docs/setup-guide.md)
 
 # Access
 
-APP:[http://localhost:5000](http://localhost:5000)
+`APP:[http://localhost:5000](http://localhost:5000)`
+
 MONGO-EXPRESS:[http://localhost:8081](http://localhost:8081)
 
 # Push image to DockerHub
@@ -93,7 +94,7 @@ APPLICATION:
 Mongo-Express:
 ![](screenshots/Output4.png)
 REGISTRATIONS-JSON:
-![](screenshots/Output4.png)
+![](screenshots/Output6.png)
 
 
 # Real-World Skills Demonstrated
@@ -128,8 +129,8 @@ Through this project I learned:
 
 📬Author
 
-```bash
 Manikanta Mangalapalli
+
 DevOps Engineer
+
 GitHub: https://github.com/maniSource-code
-```
