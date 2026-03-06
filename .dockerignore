@@ -1,6 +1,5 @@
 node_modules
 docs
-images
 screenshots
 Dockerfile
 Docker-compose.yaml

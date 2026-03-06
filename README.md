@@ -75,7 +75,7 @@ see this for more commands [setup commands](docs/setup-guide.md)
 
 # Access
 
-`APP:[http://localhost:5000](http://localhost:5000)`
+APP:[http://localhost:5000](http://localhost:5000)
 
 MONGO-EXPRESS:[http://localhost:8081](http://localhost:8081)
 
@@ -125,7 +125,7 @@ Through this project I learned:
 
 
 # NOTE:
-  for detailed explaination of project details visit  [setup-guide.md](docs/setup-guide.md) [architecture .md](docs/architecture.md)
+  for detailed explaination of project details visit  [setup-guide.md](docs/setup-guide.md) & [architecture .md](docs/architecture.md)
 
 📬Author
 
