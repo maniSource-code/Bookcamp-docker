@@ -1,7 +1,12 @@
 node_modules
+docs
+images
+screenshots
+Dockerfile
+Docker-compose.yaml
+Document.pdf
+README.md
 .git
 .gitignore
 .env
-Dockerfile
-Docker-compose.yaml
 .dockerignore
