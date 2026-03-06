@@ -66,6 +66,10 @@ View logs:
 
 `docker compose logs`
 
+Docker Exec:
+
+`docker exec -it container_name/container_id /bin/bash`
+
 Restart services:
 
 `docker compose restart`
