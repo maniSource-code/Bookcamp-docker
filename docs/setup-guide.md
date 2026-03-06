@@ -41,7 +41,9 @@
 ## 7 Access Application
 
 NODE APP:[http://localhost:5000](http://localhost:5000)
+
 MONGO-EXPRESS:[http://localhost:8081](http://localhost:8081)
+
 JSON-Registrations:[http://localhost:5000/registrations](http://localhost:5000/registrations)
 
 ## 8 Close the application
@@ -54,7 +56,7 @@ JSON-Registrations:[http://localhost:5000/registrations](http://localhost:5000/r
 
 ## Important
 
-NOte:see the [Document.pdf](Document.pdf) for more detailed setup-guide
+Note:see the [Document.pdf](../Document.pdf) for more detailed setup-guide
 
 ## Useful Docker Commands to learn
 
