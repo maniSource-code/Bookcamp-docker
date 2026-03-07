@@ -10,7 +10,7 @@ app.use(express.static("public"));
 const MONGO_URI = "mongodb://mongodb:27017/bookcamp"
 mongoose.connect(process.env.MONGO_URI || MONGO_URI)
   .then(() => console.log("MongoDB Connected"))
-  .catch(err => console.log(err));
+  .catch(err => console.log("MongoDB connection failed", err));
 
 const Registration = require("./models/Registration");
 
