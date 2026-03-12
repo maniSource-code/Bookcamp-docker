@@ -45,7 +45,7 @@ bookcamp-docker
 │
 ├── images
 │   ├── architecture1.jpg
-│   ├── architecture2.jpg
+│   └── architecture2.jpg
 │
 ├── docs
 │   ├── architecture.md
